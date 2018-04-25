@@ -1,4 +1,4 @@
-# Cluster  [![Build Status](https://travis-ci.org/meteorhacks/cluster.svg?branch=master)](https://travis-ci.org/meteorhacks/cluster)
+# Cluster  [![Build Status](https://travis-ci.org/javascriptlove/cluster.svg?branch=master)](https://travis-ci.org/javascriptlove/cluster)
 
 **Clustering solution for Meteor with load balancing and service discovery.**
 

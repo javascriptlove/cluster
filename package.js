@@ -15,6 +15,7 @@ Npm.depends({
 Package.onTest(function(api) {
   configurePackage(api);
   api.use('tinytest');
+  api.use('mongo');
   api.use('practicalmeteor:sinon@1.10.3_2');
 
   api.addFiles([

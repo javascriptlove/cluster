@@ -38,7 +38,7 @@ function configurePackage(api) {
   api.versionsFrom('METEOR@0.9.2');
   api.use(['webapp'], 'server');
   api.use([
-    'ddp', 'underscore'
+    'ddp', 'underscore', 'random'
   ], ['server', 'client']);
 
   api.addFiles([
